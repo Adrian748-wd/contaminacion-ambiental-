@@ -1,7 +1,6 @@
 # contaminacion-ambiental-
 
 
-Dijiste:
 ¿Qué es la contaminación ambiental y sus problemas?
 
 La contaminación ambiental es la introducción de sustancias o energías dañinas (químicos, basura, humo, ruido, radiación, etc.) en el medio ambiente (aire, agua o suelo) que alteran su equilibrio natural y afectan negativamente a los seres vivos, los ecosistemas y la salud humana.
